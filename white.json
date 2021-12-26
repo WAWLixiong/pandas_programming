@@ -1,0 +1,114 @@
+{
+  "en": {
+    "sg": {
+      "news": {
+        "domain": {
+          "www.g": {
+            "channel": "g",
+            "child": "g"
+          }
+        },
+        "url_prefix": {
+          "www.h": {
+            "channel": "h",
+            "child": "h"
+          }
+        }
+      },
+      "video": {
+        "domain": {
+          "www.j": {
+            "channel": "j",
+            "child": "j"
+          }
+        },
+        "pre_url": {
+          "www.i": {
+            "channel": "i",
+            "child": "i"
+          }
+        },
+        "url_prefix": {
+          "www.k": {
+            "channel": "k",
+            "child": "k"
+          }
+        }
+      }
+    },
+    "us": {
+      "news": {
+        "domain": {
+          "www.a": {
+            "channel": "a",
+            "child": "a"
+          },
+          "www.a1": {
+            "channel": "a1",
+            "child": "a1"
+          }
+        },
+        "pre_url": {
+          "www.c": {
+            "channel": "c",
+            "child": "c"
+          },
+          "www.c1": {
+            "channel": "c1",
+            "child": "c1"
+          }
+        },
+        "url_prefix": {
+          "www.b": {
+            "channel": "b",
+            "child": "b"
+          },
+          "www.b1": {
+            "channel": "b1",
+            "child": "b1"
+          }
+        }
+      },
+      "video": {
+        "domain": {
+          "www.d": {
+            "channel": "d",
+            "child": "d"
+          },
+          "www.e": {
+            "channel": "e",
+            "child": "e"
+          },
+          "www.f": {
+            "channel": "f",
+            "child": "f"
+          }
+        }
+      }
+    }
+  },
+  "zh": {
+    "ch": {
+      "news": {
+        "domain": {
+          "www.l": {
+            "channel": "l",
+            "child": "l"
+          }
+        }
+      },
+      "video": {
+        "pre_url": {
+          "www.m": {
+            "channel": "m",
+            "child": "m"
+          },
+          "www.n": {
+            "channel": "n",
+            "child": "n"
+          }
+        }
+      }
+    }
+  }
+}
